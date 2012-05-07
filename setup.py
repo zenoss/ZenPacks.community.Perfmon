@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.Perfmon"
 VERSION = "1.2"
 AUTHOR = "Mark Gold"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Perfmon']
 INSTALL_REQUIRES = []
